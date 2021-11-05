@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ASP .NET Core 
 - 📫 How to reach me : rakibinfo832@gmail.com
-- 📫 Contact no : 01799268271
+- 📫 Contact : 01799268271
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like to watch Tv Series
