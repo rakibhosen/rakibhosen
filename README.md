@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Hi, I'am Rakib Hosen
+## I'am Rakib Hosen
 
 Here are some ideas to get you started:
 
