@@ -1,22 +1,43 @@
-
-
-### Hi there 👋  
-
+# Hi there! 👋  
 ## I'm Rakib Hosen  
 
-<h5 align="">A dedicated Web Application Developer with expertise in modern web technologies and frameworks.</h5>  
+<h5 align="center">A passionate Web Application Developer with expertise in cutting-edge web technologies.</h5>  
 
-- 🔭 **Currently Working With:**  
-  ASP.NET MVC, ASP.NET Core, React, TypeScript, Angular, and Vue.js.  
-- 🌱 **Currently Learning:**  
-  Docker and DevOps to enhance my development workflow and deployment processes.  
-- 👯 **Open to Collaborations:**  
-  Excited to contribute to open-source projects and collaborative opportunities in web development.  
-- 💬 **Ask Me About:**  
-  ASP.NET, MSSQL, and efficient web application design.  
-- 📫 **Reach Me At:**  
-  - **Email:** rakibinfo832@gmail.com  
-  - **Phone:** +880 1799268271  
-- ⚡ **Fun Fact:**  
-  I’m a big fan of TV series and enjoy exploring different genres during my downtime.  
+---
+
+### 💻 **Technologies I Work With:**  
+- **Back-End:** ASP.NET MVC, ASP.NET Core  
+- **Front-End:** React, TypeScript, Angular, Vue.js  
+
+---
+
+### 🌱 **Currently Exploring:**  
+- Docker  
+- DevOps  
+
+---
+
+### 🤝 **Looking to Collaborate On:**  
+Open-source projects and exciting web development opportunities.  
+
+---
+
+### 💬 **Ask Me About:**  
+- ASP.NET  
+- MSSQL  
+- Web application development best practices  
+
+---
+
+### 📫 **How to Reach Me:**  
+- **Email:** [rakibinfo832@gmail.com](mailto:rakibinfo832@gmail.com)  
+- **Phone:** +880 1799268271  
+- **LinkedIn:** [linkedin.com/in/rakibhosen832/](https://www.linkedin.com/in/rakibhosen832/)  
+
+---
+
+### ⚡ **Fun Fact:**  
+I love binge-watching TV series in my downtime—recommend me your favorites!  
+
+---
 
