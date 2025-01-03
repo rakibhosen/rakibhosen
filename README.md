@@ -1,7 +1,7 @@
 # Hi there! 👋  
 ## I'm Rakib Hosen  
 
-<h5 align="center">A passionate Web Application Developer with expertise in cutting-edge web technologies.</h5>  
+<h5 align="center">A skilled Web Application Developer crafting modern, high-performing, and user-centric solutions</h5>  
 
 ---
 
