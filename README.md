@@ -1,14 +1,22 @@
-### Hi there 👋
 
 
-## I'am Rakib Hosen
+### Hi there 👋  
 
-<h5 align="">A passionate Web Application Developer. I'am working with ASP .NET MVC, ASP .NET Core, Laravel, React, TypeScript, Angular, Vue js.</h5>
+## I'm Rakib Hosen  
 
-- 🔭 I’m currently working with ASP .NET MVC, ASP .NET Core, Laravel React, TypeScript & Angular
-- 🌱 I’m currently learning  Docker, DevOps
-- 👯 I’m looking to collaborate on open source project
-- 💬 Ask me about ASP .NET Core, Laravel
-- 📫 How to reach me : rakibinfo832@gmail.com
-- 📫 Contact : 01799268271
-- ⚡ Fun fact: I like to watch Tv Series
+<h5 align="">A dedicated Web Application Developer with expertise in modern web technologies and frameworks.</h5>  
+
+- 🔭 **Currently Working With:**  
+  ASP.NET MVC, ASP.NET Core, React, TypeScript, Angular, and Vue.js.  
+- 🌱 **Currently Learning:**  
+  Docker and DevOps to enhance my development workflow and deployment processes.  
+- 👯 **Open to Collaborations:**  
+  Excited to contribute to open-source projects and collaborative opportunities in web development.  
+- 💬 **Ask Me About:**  
+  ASP.NET, MSSQL, and efficient web application design.  
+- 📫 **Reach Me At:**  
+  - **Email:** rakibinfo832@gmail.com  
+  - **Phone:** +880 1799268271  
+- ⚡ **Fun Fact:**  
+  I’m a big fan of TV series and enjoy exploring different genres during my downtime.  
+
